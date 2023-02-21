@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: vmss
+  name: Defaults
 
 steps:
 - task: NodeTool@0
